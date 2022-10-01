@@ -33,6 +33,8 @@ import org.springframework.dao.DataAccessException;
 
 import org.springframework.security.authentication.encoding.PasswordEncoder;
 import org.springframework.security.authentication.encoding.ShaPasswordEncoder;
+//import org.springframework.security.crypto.password.MessageDigestPasswordEncoder;
+
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
